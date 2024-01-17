@@ -7,9 +7,7 @@ package kindergarten;
  * - a Student array parallel to seatingAvailability to show students filed into seats 
  * --- (more formally, seatingAvailability[i][j] also refers to the same seat in studentsSitting[i][j])
  * 
- * @author Ethan Chou
- * @author Kal Pandit
- * @author Maksims Kurjanovics Kravcenko
+ * completed by Noor Mashal (@author Ethan Chou, @author Kal Pandit & @author Maksims Kurjanovics Kravcenko)
  */
 public class Classroom {
     private SNode studentsInLine;             // when students are in line: references the FIRST student in the LL
