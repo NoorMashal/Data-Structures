@@ -8,7 +8,7 @@ package warehouse;
  * However, you can use your priority queue structure to delete less popular items 
  * and keep the space constant.
  * 
- * @author Ishaan Ivaturi
+ * completed by Noor Mashal (@author Ishaan Ivaturi)
  */ 
 public class Warehouse {
     private Sector[] sectors;
