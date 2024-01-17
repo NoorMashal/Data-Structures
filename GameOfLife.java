@@ -10,8 +10,7 @@ import java.util.ArrayList;
  * Alive cells with 2-3 neighbors survive.
  * Dead cells with exactly 3 neighbors become alive by reproduction.
 
- * @author Seth Kelley 
- * @author Maxwell Goldberg
+ * completed by Noor Mashal (@author Seth Kelley & @author Maxwell Goldberg)
  */
 public class GameOfLife 
 {
